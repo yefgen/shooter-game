@@ -83,6 +83,8 @@ shooted = 0
 game = True
 finish = False
 
+some_new_string = 'hello'
+
 font.init()
 nfont = font.Font(None, 40)
 
